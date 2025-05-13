@@ -1,0 +1,15 @@
+pandas 
+numpy
+scikit-learn
+matplotlib
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
+google-genai
+streamlit
+langchain-community
+google-search-results
+pdfkit
+wkhtmltopdf
+markdown2
